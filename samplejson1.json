@@ -1,4 +1,5 @@
 { "Labelname": "Enter your user name",
 "LabelPassword":"Enter your password" ,
-"LabelAddress":"Enter your Address"
+"LabelAddress":"Enter your Address",
+ "LabelAddress2":"Enter your Address"
 }
